@@ -59,3 +59,7 @@ if st.button("Submit"):
             st.error(f"An error occurred: {e}")
     else:
         st.warning("Please enter a message before clicking 'Send Query'.")
+
+
+
+# https://www.youtube.com/watch?v=TO_j16jS5w4
